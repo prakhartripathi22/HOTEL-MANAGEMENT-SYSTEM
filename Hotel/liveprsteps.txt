@@ -1,0 +1,7 @@
+
+http://localhost/phpmyadmin/
+
+
+http://localhost/Hotel/
+
+http://localhost/Hotel/admin/index.php

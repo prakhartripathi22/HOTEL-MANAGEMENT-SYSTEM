@@ -1,0 +1,9 @@
+Database Name : - hotel.sql
+user name : - Admin
+password  : - 1234
+
+ENJOY DDDD
+
+Admin panel
+
+http://localhost/hotel/admin/index.php
